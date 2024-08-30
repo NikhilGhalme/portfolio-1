@@ -6,7 +6,7 @@ import { Injectable } from "@angular/core";
 })
 export class ContactUsService {
 	// url = "https://formspree.io/f/mjvdnwrn";
-  url = "https://formspree.io/f/xdoqpqqe";
+  url = "https://formspree.io/f/meojndjo";
 
 	constructor(public http: HttpClient) {
 

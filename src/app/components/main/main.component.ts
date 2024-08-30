@@ -8,7 +8,7 @@ import { SharedService } from "../../module/shared/services/shared.service";
 })
 export class MainComponent implements OnInit {
 	isMobileDevice = window.innerWidth < 920;
-	developerNames = ["Frontend Developer", "Backend Developer", "Fullstack Developer",];
+	developerNames = ["Fresher ", "Ready To Work", "Fullstack Developer",];
 	currentTextIndex = 0; // Current Text Index of the Array
 	displayText = ""; // Text to display
 	isDark = false;
