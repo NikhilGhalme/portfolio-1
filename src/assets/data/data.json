@@ -197,8 +197,8 @@
 	"educations": [
 		{
 			"institute": "Savitribai Phule Pune University",
-			"degree": "BE | Information Technology",
-			"duration": "2018 - 2022",
+			"degree": "BSC | Computer Science",
+			"duration": "2021 - 2024",
 			"isLeft": true,
 			"desc": [
 				"Studied basic computer science and programming concepts",
@@ -208,9 +208,9 @@
 			]
 		},
 		{
-			"institute": "Janata Junior College Ahmednagar",
+			"institute": "Kota Mentors College Karjat",
 			"degree": "HSC Science",
-			"duration": "2017 - 2018",
+			"duration": "2020 - 2021",
 			"isLeft": false,
 			"desc": [
 				"Took up computer science as a major subject in 12th standard",
@@ -219,9 +219,9 @@
 			]
 		},
 		{
-			"institute": "Public School Walunj",
+			"institute": "New English School Shinde",
 			"degree": "SSC",
-			"duration": "2015 - 2016",
+			"duration": "2017 - 20118",
 			"isLeft": true,
 			"desc": [
 				"Mathematics: Studied multiplication, division, fractions, decimals, and basic geometry.",
@@ -260,6 +260,18 @@
 			"position": "Frontend Developer - Intern",
 			"duration": "2021 - 2022",
 			"isLeft": true,
+			"desc": [
+				"Implement front-end designs and user interfaces using Angular,Bootstrap, HTML5, and CSS3 also with DevExtreme.",
+				"Build and consume RESTful APIs to interact with backend systems\nand databases.",
+				"Manage git and GitHub projects and tickets",
+				"Skills: HTML · CSS · JavaScript · Bootstrap · Angular · NodeJS · MySQL · REST APIs · DevExtreme"
+			]
+		},
+		{
+			"company": "BytePhase Technologies Pvt Ltd !!!!!!!!!!",
+			"position": "Frontend Developer - Intern",
+			"duration": "2021 - 2022",
+			"isLeft": false,
 			"desc": [
 				"Implement front-end designs and user interfaces using Angular,Bootstrap, HTML5, and CSS3 also with DevExtreme.",
 				"Build and consume RESTful APIs to interact with backend systems\nand databases.",
